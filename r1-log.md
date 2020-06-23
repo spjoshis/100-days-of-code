@@ -10,3 +10,6 @@ Revising concepts of OPPs along with List, Dictionaries, Sets, Generators, and F
 ### R1D2
 Finished scraping script to get latest launched mobile phones information such as product page link, Product Name, Price from Amazon. BeautifulSoup is quite easy and very nice library for scraping
 [Scrap Products with Amazon](https://gist.github.com/spjoshis/47587ec13f9eab12fb63c4a2606dfbed)
+
+### R1D3
+I learnt Decorators, Memoization and Lambda Operators. Memoisation is a technique used in computing to speed up programs. Amazing, I was not aware about it. I am focusing more on program performance
