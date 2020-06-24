@@ -13,3 +13,7 @@ Finished scraping script to get latest launched mobile phones information such a
 
 ### R1D3
 I learnt Decorators, Memoization and Lambda Operators. Memoisation is a technique used in computing to speed up programs. Amazing, I was not aware about it. I am focusing more on program performance
+
+### R1D4
+Learnt automate testing with selenium. It was just for fun. Still need to dig into it but i want to more focus on other modules like numpy, pandas etc. Tomorrow i will do more practice of them
+
